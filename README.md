@@ -95,6 +95,9 @@ SentinelX-EDR-Simulator/
 │  └─ logs/
 └─ docs/
 ```
+## Screenshots
+
+![Dashboard](assets/screenshots/dashboard.png)
 
 ## Installation
 
