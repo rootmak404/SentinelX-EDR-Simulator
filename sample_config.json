@@ -1,0 +1,7 @@
+{
+  "endpoint_id": "SX-ENDPOINT-01A7",
+  "signature_version": "2026.04",
+  "default_scan_folder": ".",
+  "default_monitor_folder": ".",
+  "report_export_path": "data/reports"
+}
