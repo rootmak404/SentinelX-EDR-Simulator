@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Framework](https://img.shields.io/badge/UI-PyQt6-purple)
+![Database](https://img.shields.io/badge/Database-SQLite-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # SentinelX EDR Simulator
 
 ## Enterprise-Style Endpoint Detection and Antivirus Simulation
