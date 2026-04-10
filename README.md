@@ -127,14 +127,6 @@ python generate_demo_threats.py
 
 3. Scan `data/demo_infected_samples` to trigger detections and quarantine events.
 
-## Screenshots
-
-- Dashboard screenshot placeholder
-- Scan Center screenshot placeholder
-- Realtime Protection screenshot placeholder
-- Threat Intelligence screenshot placeholder
-- Quarantine screenshot placeholder
-- Reports screenshot placeholder
 
 ## Future Improvements
 
